@@ -13,4 +13,7 @@ a.lower #字母皆轉為小寫
 a.strip #刪除字串兩邊多餘的空白
 a.lstrip #刪除左邊多餘的空白
 a.rstrip #刪除右邊多餘的空白
-a.replace #
+a.replace('-','+') #將「-」轉換成「+」
+```
+
+## 
